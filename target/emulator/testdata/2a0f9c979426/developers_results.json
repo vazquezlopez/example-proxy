@@ -1,0 +1,17 @@
+[
+  {
+    "developerId": "22438526-20fd-418e-8817-91ae30cf86ba",
+    "userName": "vazquezlopez",
+    "firstName": "Erika",
+    "lastName": "Vazquez",
+    "email": "vazquezlopez@google.com",
+    "status": "active",
+    "attributes": [
+      {
+        "name": "sample_attribute_0",
+        "value": "sample_attribute_value_0"
+      }
+    ],
+    "apps": []
+  }
+]

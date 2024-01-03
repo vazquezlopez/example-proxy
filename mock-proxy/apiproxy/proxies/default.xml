@@ -1,0 +1,17 @@
+<ProxyEndpoint name="default">
+  <PostFlow>
+       <Description>Flow After Target</Description>
+       <Response>
+        <Step>
+            <Name>X2J-Response</Name>
+         </Step>
+       </Response>
+  </PostFlow>
+  <HTTPProxyConnection>
+    <BasePath>mock-apigee</BasePath>
+  </HTTPProxyConnection>
+  <RouteRule name="backend">
+    <TargetEndpoint>backend</TargetEndpoint>
+  </RouteRule>
+
+</ProxyEndpoint>

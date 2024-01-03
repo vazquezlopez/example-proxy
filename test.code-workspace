@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "mock-proxy",
+      "type": "proxy",
+      "path": "/usr/local/google/home/vazquezlopez/example-proxy/mock-proxy"
+    },
+    {
+      "name": "test",
+      "type": "environment",
+      "path": "/usr/local/google/home/vazquezlopez/example-proxy/test"
+    }
+  ],
+  "settings": {
+    "cloudcode.workspace.type": "apigee"
+  }
+}
